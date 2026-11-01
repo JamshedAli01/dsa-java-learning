@@ -120,6 +120,3 @@ public class BinaryTree {
 
     }
 }
-
-// if you want to delete a root, the successor will be the left most node of the right subtree
-// AVL is a technique to Balance a Binary Search Tree(BST).
