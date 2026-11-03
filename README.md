@@ -26,10 +26,10 @@ It also serves as a **reference for other students** who are learning Data Struc
 
 The following topics have been covered so far:
 
-* Arrays
-* Linked Lists
-* Stacks
-* Queues
+* Array Data Structure
+* Linked List Data Structure
+* Stack Data Structure
+* Queue Data Structure
 
 ### 🚧 In Progress
 
