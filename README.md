@@ -24,18 +24,23 @@ It also serves as a **reference for other students** who are learning Data Struc
 
 ### ✅ Covered
 
-The following topics have been covered so far:
+The following topics are currently implemented in the repository:
 
-* Arrays
-* Linked Lists
-* Stacks
-* Queues
+* Binary tree construction and representation
+* Preorder, inorder, postorder, and level-order traversals
+* Basic binary tree operations: search, size, height, and leaf detection
+* Binary tree metrics: node count, sum, height, and diameter
+* Undirected graphs using an adjacency matrix
+* Adding vertices and edges to a graph
 
 ### 🚧 In Progress
 
-The remaining topics will be added progressively as they are covered through university coursework and self-study.
+The following topics are currently in progress:
 
-This repository is actively updated throughout the semester as my learning progresses.
+* AVL trees: insertion, height maintenance, and tree rotations
+* Binary tree equality and full-tree checks
+
+Additional topics will be added progressively as they are covered through university coursework and self-study.
 
 ---
 
@@ -45,17 +50,14 @@ The repository is organized by topic so that each directory contains the Java im
 
 ```text
 dsa-java-learning/
-├── arrays/
-├── linked-lists/
-├── stacks/
-├── queues/
-├── book-exercises/
+├── graph/
+├── trees/
 ├── .gitignore
 ├── LICENSE
 └── README.md
 ```
 
-The `book-exercises/` directory contains exercises organized according to the chapters of *Introduction to Java Programming and Data Structures* by Y. Daniel Liang.
+The `graph/` and `trees/` directories contain the current graph and tree implementations.
 
 ---
 
@@ -88,4 +90,3 @@ See the [`LICENSE`](LICENSE) file for details.
 ## ⭐ Support
 
 If you find this repository useful, consider giving it a ⭐ **star** to help other students discover it.
-
